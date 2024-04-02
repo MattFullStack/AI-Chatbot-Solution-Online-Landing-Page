@@ -49,7 +49,7 @@ const Hero = () => {
               <div className="relative">
                 <div className="h-auto rounded-t-[0.9rem]" />
 
-                <div className="aspect-[33/40] rounded-xl overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490] border-2 border-n-6 rounded-xl ">
+                <div className="aspect-[33/40] rounded-xl overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490] border-2 border-n-6 ">
                   <img
                   src={image4}
                   className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%] "
